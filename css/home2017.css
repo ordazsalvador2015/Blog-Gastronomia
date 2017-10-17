@@ -1,0 +1,45 @@
+.logo-img{
+  width: 30%;
+}
+
+.cocina-body {
+  background: url(../img/cocina.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+
+ /* para fijar el fondo y se mueava su contenido */
+  background-attachment: fixed;
+  width: 100%;
+  height: 100%;
+}
+.cocina-transp {
+	background-color: rgba(8, 45, 94, 0.45);
+	color:#FFFFFF;
+	
+}
+
+/* Fija el color de fondo transparente */
+.blog-slogan{ 
+	background-color: rgba(235,236,230,0.65);
+ }
+ 
+/* Colocar los titulos de h3 */
+ h3{
+ 	text-align: center;
+ }
+
+.color-red {
+  color:red;
+}
+.chip {
+  width: 40px;
+  height: 40px;
+}
+
+.fondo-negro {
+ background: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
